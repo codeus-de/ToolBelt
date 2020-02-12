@@ -181,6 +181,7 @@
             this.textBoxFileExt.Name = "textBoxFileExt";
             this.textBoxFileExt.Size = new System.Drawing.Size(237, 20);
             this.textBoxFileExt.TabIndex = 13;
+            this.textBoxFileExt.Text = "*.cs";
             // 
             // buttonSelectDir
             // 
